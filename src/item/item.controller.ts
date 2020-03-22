@@ -16,11 +16,6 @@ export class ItemController
 
 	constructor(private itemService: ItemService) {}
 
-	alive()
-	{
-		
-	}
-
 	/**
 	 * Adding a new Item
 	 */
